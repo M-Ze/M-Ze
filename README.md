@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Engineering
 - 🌱 I’m currently learning Python, WebDev
 - 💞️ I’m looking to collaborate on Mechanical Engineering Projects
-- 📫 [How to reach me via GitHub](https://github.com/M-Ze)
+- 📫 [GitHub](https://github.com/M-Ze)
 - 📫 [MZe / t00l](mailto:web.application.t00l@gmail.com)
 
 <!---
