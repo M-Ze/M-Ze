@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, WebDev
 - 💞️ I’m looking to collaborate on Mechanical Engineering Projects
 - 📫 [How to reach me via GitHub](https://github.com/M-Ze)
-- 📫 [How to reach me via Email](web.application.t00l@gmail.com)
+- 📫 [MZe / t00l](mailto:web.application.t00l@gmail.com)
 
 <!---
 M-Ze/M-Ze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
