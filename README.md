@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @M-Ze
+- 👋 Hi, I’m @MZe
 - 👀 I’m interested in Python, Engineering
 - 🌱 I’m currently learning Python, WebDev
 - 💞️ I’m looking to collaborate on Mechanical Engineering Projects
-- 📫 How to reach me via GitHub
+- 📫 [How to reach me via GitHub](https://github.com/M-Ze)
 
 <!---
 M-Ze/M-Ze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
